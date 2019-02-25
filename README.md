@@ -1,5 +1,7 @@
 # fillit
 
+[README in construction]
+
 The goal of fillit project is to fit tetris forms into smallest possible square.
 Forms are located in a simple txt file. An is example of a valid file is below.
 
